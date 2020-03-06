@@ -6,6 +6,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
+    "apollo-boost": "^0.4.7",
+    "apollo-client": "^2.6.8",
+    "apollo-server-express": "^2.11.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "graphql-server-express": "^1.4.1",
+    "graphql-tools": "^4.0.7",
     "meteor-node-stubs": "^1.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
